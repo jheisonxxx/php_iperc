@@ -1,0 +1,1 @@
+[07-Nov-2018 13:21:18 America/Lima] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aqpfact_userfacturas'@'privafl-400.privatednsorg.com' (using password: YES) in /home/aqpfact/public_html/iperc/conexion/conexion.php on line 2
